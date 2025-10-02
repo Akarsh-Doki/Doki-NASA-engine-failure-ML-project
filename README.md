@@ -12,7 +12,7 @@ Specifically, I used the **FD002** subset, which includes multiple engines, vari
 
 ## 3. Machine Learning Model Used and Why  
 
-The final model used in this project is **XGBoost (Extreme Gradient Boosting)**.  
+The final model used in this project is **XGBoost (Extreme Gradient Boosting)** As a baseline, a model using RandomForestRegressor is also implemented.
 
 ### Why XGBoost?  
 - **Handles Nonlinearities**: Engine degradation is nonlinear; XGBoost captures interactions between sensors effectively.  
