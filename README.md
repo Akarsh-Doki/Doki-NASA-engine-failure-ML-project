@@ -49,6 +49,16 @@ The final model used in this project is **XGBoost (Extreme Gradient Boosting)** 
    - Actual vs Predicted plots  
    - Error distributions and zone-wise breakdown  
 
+## 5. References
+
+- NASA. (n.d.). CMAPSS Jet Engine Simulated Data. NASA. https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
+  
+- Saxena, A., Goebel, K., Simon, D., & Eklund, N. (2008, October). Damage propagation modeling for aircraft engine run-to-failure simulation. In 2008 International Conference on Prognostics and Health Management (pp. 1–9). IEEE. https://doi.org/10.1109/PHM.2008.4711414
+  
+- Saxena, A., Goebel, K., Simon, D., & Eklund, N. (2008). Metrics for evaluating performance of prognostic techniques. 2008 International Conference on Prognostics and Health Management, 1–17. https://doi.org/10.1109/PHM.2008.4711436
+
+- Chen, T., & Guestrin, C. (2016). *XGBoost: A Scalable Tree Boosting System*. KDD ’16. https://doi.org/10.1145/2939672.2939785
+
 ## Connect
 Author: Akarsh Doki
 
